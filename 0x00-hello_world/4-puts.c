@@ -3,7 +3,7 @@
 * main - A c file to print a string to the stdout using a puts.
 * put - a function to print to stdout.
 *
-* Return - 0 signifying program success.
+* Return:: 0 signifying program success.
 */
 int main(void)
 {
